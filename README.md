@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Abhijeet, a Master's student in the dept of Computer S
 
 ### My Work
 
-I'm passionate about finding efficient solutions to these graph-related challenges, leveraging the power of CUDA to parallelize computations and enhance performance. This repository serves as a canvas for my projects, experiments, and discoveries in the realm of parallel computing and graph algorithms.
+I'm passionate about finding efficient solutions to these graph-related challenges, leveraging the power of CUDA to parallelize computations and enhance performance. This repository serves as a canvas for my projects, experiments, and discoveries in the world of parallel computing and graph algorithms.
 
 ### Collaboration and Contact
 
